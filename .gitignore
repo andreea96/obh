@@ -7,3 +7,7 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> IntelliJ config folder
+/.idea/
+###< IntelliJ config folder
